@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hugdog/static/css/main.30d463ab.chunk.css",
-    "main.js": "/hugdog/static/js/main.9dd62b0d.chunk.js",
-    "main.js.map": "/hugdog/static/js/main.9dd62b0d.chunk.js.map",
+    "main.js": "/hugdog/static/js/main.8aaad92a.chunk.js",
+    "main.js.map": "/hugdog/static/js/main.8aaad92a.chunk.js.map",
     "runtime-main.js": "/hugdog/static/js/runtime-main.36194815.js",
     "runtime-main.js.map": "/hugdog/static/js/runtime-main.36194815.js.map",
     "static/css/2.7e92e868.chunk.css": "/hugdog/static/css/2.7e92e868.chunk.css",
     "static/js/2.668500c2.chunk.js": "/hugdog/static/js/2.668500c2.chunk.js",
     "static/js/2.668500c2.chunk.js.map": "/hugdog/static/js/2.668500c2.chunk.js.map",
     "index.html": "/hugdog/index.html",
-    "precache-manifest.1639e32f1d4b8eb327d7f6ac94815ccf.js": "/hugdog/precache-manifest.1639e32f1d4b8eb327d7f6ac94815ccf.js",
+    "precache-manifest.96e0110e41f9102fb31b427898e392af.js": "/hugdog/precache-manifest.96e0110e41f9102fb31b427898e392af.js",
     "service-worker.js": "/hugdog/service-worker.js",
     "static/css/2.7e92e868.chunk.css.map": "/hugdog/static/css/2.7e92e868.chunk.css.map",
     "static/css/main.30d463ab.chunk.css.map": "/hugdog/static/css/main.30d463ab.chunk.css.map",
@@ -558,6 +558,6 @@
     "static/css/2.7e92e868.chunk.css",
     "static/js/2.668500c2.chunk.js",
     "static/css/main.30d463ab.chunk.css",
-    "static/js/main.9dd62b0d.chunk.js"
+    "static/js/main.8aaad92a.chunk.js"
   ]
 }
