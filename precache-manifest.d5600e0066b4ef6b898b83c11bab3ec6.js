@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aad89a928a1d04e2f5fb94e8359c798b",
+    "revision": "d10ad414fb50811e1cfe0c367ee74a9a",
     "url": "/hugdog/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hugdog/static/css/2.7e92e868.chunk.css"
   },
   {
-    "revision": "c5e9b7c77862e6f0c820",
+    "revision": "d97f4f89d2eadcce2ab6",
     "url": "/hugdog/static/css/main.30d463ab.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hugdog/static/js/2.668500c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5e9b7c77862e6f0c820",
-    "url": "/hugdog/static/js/main.8aaad92a.chunk.js"
+    "revision": "d97f4f89d2eadcce2ab6",
+    "url": "/hugdog/static/js/main.783a0bac.chunk.js"
   },
   {
     "revision": "e034786fd6becf948fec",
