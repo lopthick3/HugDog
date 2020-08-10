@@ -48,34 +48,42 @@ function Header(props) {
       <header className="sticky-top">
         <Navbar bg="white" variant="light" expand="md">
           <Navbar.Toggle aria-controls="basic-navbar-nav order-1" />
-          <Navbar.Brand href="/" className="mx-auto ml-md-0 mr-md-5 order-2">
+          <Navbar.Brand
+            as={Link}
+            to="/"
+            className="mx-auto ml-md-0 mr-md-5 order-2"
+          >
             <Logo className="App-logo" alt="logo" />
           </Navbar.Brand>
           <Navbar.Collapse id="basic-navbar-nav" className="order-4 order-md-3">
             <Nav className="mr-auto nav-menu">
               <Nav.Link href="#news">最新消息</Nav.Link>
-              <Nav.Link href="/products">找商品</Nav.Link>
+              <Nav.Link as={Link} to="/products">
+                找商品
+              </Nav.Link>
               <NavDropdown title="找服務" id="basic-nav-dropdown">
-                <NavDropdown.Item href="/service">
+                <NavDropdown.Item as={Link} to="/service">
                   保姆照顧服務
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/service/query">
+                <NavDropdown.Item as={Link} to="/service/query">
                   尋找狗狗保姆
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="/service/apply">
+                <NavDropdown.Item as={Link} to="/service/apply">
                   成為狗狗保姆
                 </NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="/activity">找活動</Nav.Link>
+              <Nav.Link as={Link} to="/activity">
+                找活動
+              </Nav.Link>
               <NavDropdown title="找知識">
-                <NavDropdown.Item href="/knowledge/blog">
+                <NavDropdown.Item as={Link} to="/knowledge/blog">
                   找文章
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/knowledge/partner">
+                <NavDropdown.Item as={Link} to="/knowledge/partner">
                   找夥伴
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/knowledge/question">
+                <NavDropdown.Item as={Link} to="/knowledge/question">
                   找答案
                 </NavDropdown.Item>
               </NavDropdown>
