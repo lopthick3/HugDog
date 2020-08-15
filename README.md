@@ -15,4 +15,4 @@ Hugdog 是以寵物犬為主題的電商購物網站結合 4 大功能
 
 ### HugDog 簡報檔案
 
-[![HugDog-線上簡報檔案]](https://prezi.com/p/0_liooharay1/?present=1 'HugDog-線上簡報連結')
+[HugDog-線上簡報 Demo](https://prezi.com/p/0_liooharay1/?present=1 'HugDog-線上簡報連結')
