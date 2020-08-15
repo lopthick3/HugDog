@@ -1,6 +1,6 @@
 ## Hugdog 寵物犬整合服務平台
 
-資策會-前端工程師養成班專題
+僅畫面呈現未連動資料庫
 
 ### [Demo](lopthick3.github.io/hugdog)
 
