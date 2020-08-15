@@ -2,7 +2,7 @@
 
 資策會-前端工程師養成班專題
 
-###`[Demo](lopthick3.github.io/hugdog)`
+### `[Demo](lopthick3.github.io/hugdog)`
 
 Hugdog 是以寵物犬為主題的電商購物網站結合 4 大功能
 
