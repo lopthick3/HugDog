@@ -2,7 +2,7 @@
 
 僅畫面呈現未連動資料庫
 
-### [Demo](lopthick3.github.io/hugdog)
+### [Demo](https://lopthick3.github.io/hugdog)
 
 Hugdog 是以寵物犬為主題的電商購物網站結合 4 大功能
 
@@ -15,7 +15,7 @@ Hugdog 是以寵物犬為主題的電商購物網站結合 4 大功能
 
 ## HugDog 簡報
 
-[HugDog-線上簡報 Demo](https://prezi.com/p/0_liooharay1/?present=1 'HugDog-線上簡報連結')
+[HugDog-線上簡報 Demo](https://prezi.com/view/A3Dv5AIgXaMdwrhJHOaT/ 'HugDog-線上簡報連結')
 
 ## 個人負責的頁面展示
 
